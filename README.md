@@ -23,6 +23,5 @@ This also inherently introduces the ability to do:
 
 This plugin will change the URL back to the original value.
 
-Version 1.* is compatible with Thunderbird 60.*
+[Download xpi manually](https://github.com/miurahr/unmangleOutlookSafelinks/tree/releases)
 
-Version 2.* is compatible with Thunderbird 68+
